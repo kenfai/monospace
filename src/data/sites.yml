@@ -1,0 +1,692 @@
+- url: http://vetusware.com/
+  name: VETUSWARE.COM
+  category: 90s
+  description: the biggest free abandonware downloads collection in the universe
+- url: https://wiby.me/
+  name: wiby.me
+  category: 90s
+  description: the search engine for old school websites
+- url: https://jspaint.app/
+  name: MSPaint
+  category: 90s
+  description: Classic MS Paint written in JavaScript
+- url: https://win98icons.alexmeub.com/
+  name: Windows 98 Icon Viewer
+  category: 90s
+  description: If you ever find yourself in need of some good'ol Windows 98 icons, here's the place to look for them.
+- url: http://www.petesqbsite.com/
+  name: Pete's QBASIC / QuickBasic Site
+  category: 90s
+  description: This site is here to keep the QBasic dream alive!
+- url: https://poolside.fm/
+  name: Poolside FM
+  category: 90s
+  description: 90s themed OS that runs on your browser. Full of easter eggs!
+- url: https://16colo.rs/
+  name: 16colors
+  category: 90s
+  description: Legacy ANSI/ASCII art and retro computer graphics gallery.
+- url: https://www.cameronsworld.net/
+  name: Cameron's World
+  category: 90s
+  description: GeoCities overload 9000!
+- url: http://www.inthe90s.com/
+  name: Welcome to InThe90s
+  category: 90s
+  description: All the pop cultures from the 90s, immortalized!
+- url: https://jdan.github.io/98.css/
+  name: 98.css
+  category: 90s
+  description: A design system for building faithful recreations of old UIs.
+- url: http://www.childrenparadise.net/
+  name: 兒童樂園
+  category: 90s
+  description: 全套1006期兒童樂園下載區
+- url: http://www.oldskool.org/
+  name: The Oldskool PC
+  category: 90s
+  description: A website dedicated to old PC gaming-related nostalgia and resources.
+- url: https://ourworldindata.org/
+  name: Our World in Data
+  category: Big Data
+  description: Research and data to make progress against the world’s largest problems.
+- url: https://design-system.service.gov.uk/
+  name: GOV.UK Design System
+  category: Design
+  description: The Government of UK Design System
+- url: https://designsystem.digital.gov/
+  name: U.S. Web Design System (USWDS)
+  category: Design
+  description: The United States Web Design System
+- url: https://www.degreeless.design/
+  name: Degreeless.design
+  category: Design
+  description: This is (almost) everything I learned in design school in one website.
+- url: https://www.felixjoy.co/designbase
+  name: DesignBase
+  category: Design
+  description: DesignBase is a database of highly curated free resources for all designers.
+- url: https://designsystemsrepo.com/
+  name: Design Systems Repo
+  category: Design
+  description: A frequently updated collection of Design System examples, articles, tools and talks.
+- url: https://www.malaysiadesignarchive.org/
+  name: Malaysia Design Archive
+  category: Design
+  description: A project to map the development of graphic design in Malaysia from the period before independence(1957) until now.
+- url: https://uifaces.co/
+  name: UI Faces
+  category: Design
+  description: When you need some fake profile images of real human in your project.
+- url: https://www.colorbox.io/
+  name: ColorBox by Lyft Design
+  category: Design
+  description: Yet another colour scheme generator.
+- url: https://source.typekit.com/source-han-serif/
+  name: Source Han Serif
+  category: Design
+  description: An open source Pan-CJK(Chinese, Japanese, Korean) typeface by Adobe
+- url: http://dongerlist.com/
+  name: Donger List
+  category: Design
+  description: ¯\_(ツ)_/¯
+- url: https://www.robscanlon.com/encom-boardroom/
+  name: "Tron: Legacy Encom Boardroom Visualization"
+  category: Design
+  description: "Live interactive interface of the Encom Boardroom from the movie Tron: Legacy."
+- url: https://lawsofux.com/
+  name: LAWS OF UX
+  category: Design
+  description: Laws of UX is a collection of the maxims and principles that designers can consider when building user interfaces.
+- url: http://toastytech.com/guis/index.html
+  name: GUI Gallery
+  category: Design
+  description: On these pages you will find many screen shots of various desktop computer Graphical User Interfaces and operating systems.
+- url: https://goodui.org/
+  name: GoodUI
+  category: Design
+  description: Some good tips on building good user interfaces that convert.
+- url: http://www.sr692.com/
+  name: swissair fansite
+  category: Design
+  description: Welcome to the Swissair Fan site
+- url: https://developer.visa.com/
+  name: Visa Developer Center
+  category: E-commerce
+  description: Visa's API and tools.
+- url: https://developer.mastercard.com/
+  name: mastercard developers
+  category: E-commerce
+  description: mastercard API and tools.
+- url: https://thefeecalculator.com/
+  name: The Fee Calculator
+  category: E-commerce
+  description: Calculate PayPal's & Stripe's merchant account fees.
+- url: http://www.falstad.com/circuit/e-index.html
+  name: Electronics Demonstrations
+  category: Electronics
+  description: The following demonstrations use a java applet that simulates electronic circuits.
+- url: https://electronicsclub.info/
+  name: Electronics Club
+  category: Electronics
+  description: Good reference on discrete electronic components and ICs.
+- url: http://www.ibiblio.org/kuphaldt/electricCircuits/
+  name: Lessons In Electric Circuits
+  category: Electronics
+  description: A free series of textbooks on the subjects of electricity and electronics
+- url: https://www.findchips.com/
+  name: findchips
+  category: Electronics
+  description: The search engine for electronic components.
+- url: http://www.antenna-theory.com/
+  name: Antennas and Antenna Theory
+  category: Electronics
+  description: This website is intended to be a source of knowledge for learning about and understanding antennas.
+- url: http://buthowdoitknow.com/but_how_do_it_know_cpu_model.html
+  name: CPU Model simulation
+  category: Electronics
+  description: A simulation of CPU Model
+- url: https://www.allaboutcircuits.com/
+  name: All About Circuits
+  category: Electronics
+  description: one of the world’s largest and most active independent online communities for electrical engineers.
+- url: https://legendsoflocalization.com/
+  name: Legends of Localization
+  category: Games
+  description: The Legends of Localization series takes a detailed look at video game translation and how games change during the translation process.
+- url: https://osgameclones.com/
+  name: Open Source Game Clones
+  category: Games
+  description: This site tries to gather open-source remakes of great old games in one place.
+- url: http://www.catb.org/~esr/faqs/hacker-howto.html
+  name: How To Become A Hacker
+  category: Hacking
+  description: Hackers considered this as the definitive guide to learn about becoming a hacker.
+- url: https://overthewire.org/wargames/bandit/
+  name: OverTheWire:Bandit wargame
+  category: Hacking
+  description: The Bandit wargame is aimed at absolute beginners to learn about accessing a system & navigating within them.
+- url: http://www.takedown.com/
+  name: TAKEDOWN
+  category: Hacking
+  description: This site contains technical details of the break-in and pursuit, including actual analysis of the original break-in, voice messages left after the break-in, live transcripts of some of Kevin Mitnick's sessions, conversations, and much more.
+- url: http://textfiles.com/
+  name: textfiles.com_
+  category: Hacking
+  description: What this site offers is a glimpse into the history of writers and artists bound by the 128 characters that the American Standard Code for Information Interchange (ASCII) allowed them. The focus is on mid-1980's textfiles and the world as it was then.
+- url: http://phrack.org/
+  name: ".:: Phrack Magazine ::."
+  category: Hacking
+  description: Phrack is an underground zine, from hackers for hackers.
+- url: http://www.os2museum.com/wp/
+  name: OS/2 Museum
+  category: History
+  description: This blog is devoted to the history of OS/2 and random aspects of PC software and hardware history, with emphasis on the 1987-1997 period. 
+- url: https://www.folklore.org/
+  name: Folklore
+  category: History
+  description: Anecdotes about the development of Apple's original Macintosh, and the people who made it (122 stories).
+- url: https://officesnapshots.com/
+  name: Office Snapshots
+  category: Design
+  description: If you are still looking for the perfect office look for your next billion dollar startup to impress VCs and attract millennial designers, this site contains all the office space inspirations you will ever need.
+- url: https://makelinux.github.io/kernel/map/
+  name: Interactive map of Linux kernel
+  category: Linux
+  description: The interactive Linux kernel map helps you traverse complex interconnections between subsystems of the kernel while you explore its source code.
+- url: https://libraryofbabel.info/
+  name: Library of Babel
+  category: Literature
+  description: The ambition of this project is to randomly generate combinations of texts from characters that would contain every book that ever has been written, and every book that ever could be - including every play, every song, every scientific paper, every legal decision, every constitution, every piece of scripture, and so on.
+- url: https://millionshort.com/
+  name: Million Short
+  category: Literature
+  description: A Search Engine created to bring out the buried contents on the internet.
+- url: https://mygos.mygeoportal.gov.my/upi/
+  name: Aplikasi Carian Kod dan Nama Sempadan Pentadbiran Tanah (UPI)
+  category: Maps
+  description: Search for the Unique Parcel Identifier (UPI) used in Malaysia to identify the physical land lots.
+- url: https://thetruesize.com/
+  name: The True Size Of ...
+  category: Maps
+  description: Compare the true size of countries by overlaying them on top of each other in this interactive map.
+- url: https://www.audiostation.org/
+  name: Audiostation
+  category: Music
+  description: Audiostation is an old school media player that can be installed on Windows systems. 
+- url: http://poobala.com/crossoverlist.html
+  name: Poobala.com's Crossovers And Spin Offs Pages
+  category: Movies
+  description: This website is devoted to spin offs of shows and crossovers between shows. When shows crossover or spin off other shows the implication is that those shows share a reality.
+- url: https://www.filmsite.org/
+  name: Filmsite - also known as Greatest Films
+  category: Movies
+  description: a unique website containing interpretive, descriptive review commentary and background history on many of the best Hollywood and American classic films in the last century.
+- url: https://dev.tube/
+  name: Dev.Tube
+  category: Developer
+  description: Curated source of best tech videos.
+- url: https://app.soundgrail.com/
+  name: SoundGrail Free Music App
+  category: Music
+  description: an app that has everything you need to make and understand music like the pros. Become a professional musician in no time!
+- url: https://lmms.io/
+  name: Let's make music
+  category: Music
+  description: Let's make music with a free, cross-platform tool for your computer.
+- url: http://turtle.audio/
+  name: turtle.audio
+  category: Music
+  description: Make music with snake game like path.
+- url: http://bbcsfx.acropolis.org.uk/
+  name: BBC Sound Effects
+  category: Music
+  description: 16,000 BBC Sound Effects are made available by the BBC in WAV format to download for use under the terms of the RemArc Licence.
+- url: https://freeplaymusic.com/
+  name: Freeplay Music
+  category: Music
+  description: Freeplay Music is one of the most trusted production music libraries in the world. All the tracks in the Freeplay Music library will be FREE for use on YouTube (personal use only). 
+- url: http://www.doenetwork.org/update.php
+  name: Doe Network
+  category: Mysteries
+  description: The Doe Network is a 100% volunteer organization devoted to assisting investigating agencies in bringing closure to national and international cold cases concerning Missing & Unidentified Persons.
+- url: http://beej.us/guide/bgnet/html/
+  name: Beej's Guide to Network Programming Using Internet Sockets
+  category: Networking
+  description: The world-infamous Network Programming Guide. Also checkout the homepage for other interesting contents.
+- url: https://calomel.org/
+  name: CALOMEL
+  category: Networking
+  description: Open Source Research and Reference
+- url: https://www.ibiblio.org/
+  name: The Public's Library and Digital Archive
+  category: Computers
+  description: Home to one of the largest free information databases online, ibiblio.org has something for everyone.
+- url: https://www.iamcal.com/
+  name: Personal website of Cal Henderson, Slack co-founder & CTO.
+  category: Personal Home Page
+  description: Cal Henderson oversees the engineering organization at Slack. He is an experienced technology leader, having previously built and led the engineering team at Flickr, through its acquisition by Yahoo.
+- url: http://www.geocities.ws/siliconvalley/2072/
+  name: Hackman's Realm
+  category: Personal Home Page
+  description: An archive copy of an interesting fellow's original GeoCities homepage.
+- url: https://www.valums.com/
+  name: Andris Valums
+  category: Personal Home Page
+  description: When less is more.
+- url: http://www.falstad.com/
+  name: Paul Falstad
+  category: Personal Home Page
+  description: Wrote a bunch of Java Applets.
+- url: http://www.dudeman.net/
+  name: Dudeman
+  category: Personal Home Page
+  description: Lots of weird hippie stuffs. Once you enter, you can never leave.
+- url: http://www.kirchelconsulting.com/pooltable/
+  name: John Kirchel Build a Pool Table
+  category: Personal Home Page
+  description: A guy's quest to build a high end pool table.
+- url: https://prog21.dadgum.com/
+  name: James Hague - programming in the twenty-first century
+  category: Personal Home Page
+  description: It's not about technology for its own sake. It's about being able to implement your ideas.
+- url: https://bellard.org/
+  name: Fabrice Bellard's Home Page
+  category: Personal Home Page
+  description: No BS, no fancy CSS, straigt to the point.
+- url: http://www.ke5fx.com/
+  name: John Miles, KE5FX
+  category: Personal Home Page
+  description: It serves as an online lab notebook, describing a number of original hardware and software projects I've undertaken over the past several years.
+- url: https://www.crockford.com/
+  name: Douglas Crockford
+  category: Personal Home Page
+  description: The JavaScript Guru.
+- url: http://rin.io/
+  name: good fibrations - math is art
+  category: Personal Home Page
+  description: A 16 year old researcher training to be a mathematician.
+- url: http://physicsgirl.com/
+  name: Sabrina Gonzalez Pasterski, PhD PhysicsGirl
+  category: Personal Home Page
+  description: Young achiever PhD.
+- url: http://jimmyh.su/
+  name: JIMMY HSU'S CORNER OF THE INTERTUBES
+  category: Personal Home Page
+  description: A homepage with the style of a DOS COM program.
+- url: http://theadarshsinha.com/
+  name: Adarsh Sinha
+  category: Personal Home Page
+  description: Another personal site with lots of experimental stuffs.
+- url: http://www.p01.org/
+  name: MATHIEU 'P01' HENRI
+  category: Personal Home Page
+  description: JavaScript developer and size optimizer extraordinary. Experiments in JavaScript & Assembler.
+- url: http://3zanders.co.uk/
+  name: Alex Parker's Website
+  category: Personal Home Page
+  description: Alex is a highly motivated programmer particularly interested in graphics, content pipelines and game tools.
+- url: https://kottke.org/
+  name: KOTTKE.ORG  ♥  HOME OF FINE HYPERTEXT PRODUCTS
+  category: Personal Home Page
+  description: Founded in 1998, kottke.org is one of the oldest blogs on the web. It’s written and produced by Jason Kottke.
+- url: http://nicole.pizza/
+  name: NICOLE HE'S INTERNET REALM
+  category: Personal Home Page
+  description: There's no pizza to be found here but there's a fair share of creative experimental hardware & software projects on the site.
+- url: http://www.leapsecond.com/
+  name: LeapSecond
+  category: Personal Home Page
+  description: A web site dedicated to precise Time & Frequency ...one man's quest for the most accurate clock...
+- url: https://www.firesofcreation.net/
+  name: World Citizen Prayer
+  category: Personal Home Page
+  description: Could be a cult, I'm not sure. Visit at your own risk.
+- url: http://www.numberworld.org/
+  name: Alex Yee's website
+  category: Personal Home Page
+  description: The author of y-cruncher - A Multi-Threaded Pi-Program originally built for a high-school project that went a little too far...
+- url: https://linusakesson.net/
+  name: Linus Åkesson
+  category: Personal Home Page
+  description: Apart from being a demoscener, an all-around interesting guy.
+- url: https://www.filfre.net/
+  name: The Digital Antiquarian
+  category: Personal Home Page
+  description: A HISTORY OF COMPUTER ENTERTAINMENT AND DIGITAL CULTURE BY JIMMY MAHER. The articles are top quality and very well-researched. Worth a visit.
+- url: https://ludens.cl/
+  name: Homo Ludens homepage
+  category: Personal Home Page
+  description: This guy here built a microhydro plant to generate electricity for his off-grid home in the nature far away from the city and didn't think it was a big deal.
+- url: http://intelorca.co.uk/
+  name: IntelOrca
+  category: Personal Home Page
+  description: The author of OpenRCT2 - An open-source clone of RollerCoaster Tycoon 2.
+- url: https://kk.org/
+  name: Kevin Kelly's - Senior Maverick for Wired Magazine.
+  category: Personal Home Page
+  description: You can find some of the more personal stuffs that he writes about on his website.
+- url: https://norvig.com/
+  name: Peter Norvig - Director of Research at Google
+  category: Personal Home Page
+  description: This site contains technical papers, essays, reports, software, and other materials by Peter Norvig.
+- url: http://www.slime.com.tw/
+  name: Slime's first homepage
+  category: Personal Home Page
+  description: "Note: this website is in Chinese, as I believe the webmaster is based in Taiwan. Worth checking out where he would regularly post updates of utility software recommendations."
+- url: https://www.floodgap.com/
+  name: Floodgap Systems' website
+  category: Personal Home Page
+  description: An archive of retrocomputing and classic technology.
+- url: https://www.strml.net/
+  name: Samuel Reed
+  category: Personal Home Page
+  description: This website transforms from plain text to full CSS animation right infront of your eyes!
+- url: https://resobscura.blogspot.com/
+  name: Res Obscura
+  category: Personal Home Page
+  description: A catalogue of obscure things
+- url: http://waynesthisandthat.com/
+  name: This and That - Wayne Schmidt
+  category: Personal Home Page
+  description: Started in 1998, this personal website has grown to contain over 500+ pages covering more than 400 subjects.
+- url: http://blog.fogus.me/
+  name: Send More Paramedics
+  category: Personal Home Page
+  description: A blog on thoughtful matters.
+- url: https://patrickcollison.com/
+  name: Patrick Collison
+  category: Personal Home Page
+  description: Personal website of Patrick Collison - CEO of Stripe.
+- url: https://sniklaus.com/
+  name: Simon Niklaus, Ph.D.
+  category: Personal Home Page
+  description: Personal website of Simon Niklaus, Ph.D. - Research Scientist at Adobe
+- url: http://www.photosynthesis.co.nz/nikon/index.html
+  name: Nikon Lenses information
+  category: Photography
+  description: A complete database of every single Nikon (Nikkor) lens that has ever been made.
+- url: https://tokyocamerastyle.com/
+  name: tokyo camera style
+  category: Photography
+  description: Cameras and Photography spotted in Tokyo, Japan.
+- url: http://www.savazzi.net/photography/default.htm
+  name: Enrico Savazzi's web site
+  category: Photography
+  description: Pages on my interests in photography (mostly equipment and scientific photography)
+- url: https://pixelpeeper.com/
+  name: World's biggest full size photo search
+  category: Photography
+  description: PixelPeeper lets you check sample photos at 100% zoom from any camera and lens.
+- url: https://www.mir.com.my/rb/photography/photography.htm
+  name: Photography in Malaysia
+  category: Photography
+  description: Started in 1997, this personal photography website has become one of the highest ranking websites in the world.
+- url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+  name: Data Structure Visualizations
+  category: Programming
+  description: visualizations for an assortment of data structures and algorithms
+- url: https://projecteuler.net/
+  name: Project Euler
+  category: Programming
+  description: Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+- url: http://www.functionx.com/
+  name: FunctionX
+  category: Programming
+  description: Windows programming resources
+- url: https://wiki.osdev.org/
+  name: OS Dev
+  category: Programming
+  description: This website provides information about the creation of operating systems and serves as a community for those people interested in OS creation with 646 wiki articles.
+- url: https://codewith.mu/
+  name: Code with Mu
+  category: Programming
+  description: a simple Python editor for beginner programmers.
+- url: http://www.azillionmonkeys.com/qed/asm.html
+  name: Paul Hsieh's x86 Assembly page
+  category: Programming
+  description: Good enough resources for learning x86 Assembly Language Programming.
+- url: https://peterhigginson.co.uk/LMC/
+  name: Little Man Computer - CPU Simulator
+  category: Programming
+  description: Learn how CPU instructions work by with an interactive visual CPU simulator.
+- url: http://www.pouet.net/
+  name: "pouët.net :: your online demoscene resource"
+  category: Programming
+  description: The largest demoscene community on the planet.
+- url: https://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print=1
+  name: The Pac-Man Dossier
+  category: Games
+  description: How do Pac-Man really works under the hood?
+- url: http://lazyfoo.net/tutorials/SDL/index.php
+  name: Lazy Foo' Productions
+  category: Games
+  description: SDL & OpenGL Tutorials.
+- url: https://tcrf.net/The_Cutting_Room_Floor
+  name: The Cutting Room Floor
+  category: Games
+  description: The Cutting Room Floor is a site dedicated to unearthing and researching unused and cut content from video games. Start by searching for Sonic games.
+- url: https://script-8.github.io/
+  name: SCRIPT-8
+  category: Games
+  description: SCRIPT-8 is a free browser-based & open-source fantasy computer for making, sharing, and playing tiny retro-looking games (called cassettes).
+- url: http://n64.icequake.net/doc/n64intro/kantan/step1/index.html
+  name: Nintendo64 Introductory Manual
+  category: Games
+  description: The offical manual of Nintendo64 Introductory Manual. Check out the main domain as well for other N64 related stuffs.
+- url: https://www.learner.org/series/physics-for-the-21st-century/
+  name: Physics for the 21st Century
+  category: Science
+  description: Explore the frontiers of physics research with the scientists on the front lines in this 11-unit course in modern physics for high school physics teachers, undergraduate students, and science enthusiasts.
+- url: http://billsnyderastrophotography.com/
+  name: Bill Snyder Astrophotography
+  category: Science
+  description: Astro Image Site - contains images of star clusters, galaxies, nebulas, and much more.
+- url: https://www.feynmanlectures.caltech.edu/
+  name: The Feynman Lectures on Physics
+  category: Science
+  description: Now, anyone with internet access and a web browser can enjoy reading a high quality up-to-date copy of Feynman's legendary lectures.
+- url: http://www.angelfire.com/ak5/energy21/links.html
+  name: Ultimate free and alternative energy website url and article collection
+  category: Science
+  description: Projects and Information at this website that may help you understand the emerging energy scene. You can't go wrong when it comes to an angelfire hosted website.
+- url: http://www.coolmagnetman.com/
+  name: Magnet Man - Cool Experiments with Magnets
+  category: Science
+  description: This web site is devoted to magnetism and the cool experiments you can do with permanent magnets and electro-magnets.
+- url: https://www.myphysicslab.com/
+  name: Physics Simulations
+  category: Science
+  description: Interactive Physics Simulations
+- url: http://507movements.com/
+  name: Five Hundred and Seven Mechanical Movements by Henry T. Brown. - 1868
+  category: Science
+  description: This site contains the original illustrations and text from the 21st edition of the book, published in 1908. It also includes animated versions of the illustrations, and occasional notes by the webmaster.
+- url: https://eol.org/
+  name: Encyclopedia of Life
+  category: Science
+  description: Global access to knowledge about life on Earth
+- url: https://www.mybis.gov.my/
+  name: Malaysia Biodiversity Information System (MyBIS)
+  category: Science
+  description: To be a one-stop repository database system, which provides and facilitates access to information on biodiversity studies and management in Malaysia.
+- url: https://www.goldennumber.net/
+  name: The Golden Number - 1.618
+  category: Science
+  description: We’re dedicated to providing you with the best information and tools on this Golden Number, known as Phi, the Golden Ratio, Golden Section, Golden Proportion, Golden Mean or the Divine Proportion, and its mathematical cousin the Fibonacci Sequence (0, 1, 1, 2, 3, 5, 8, 13, 21 …)
+- url: http://tabletopwhale.com/
+  name: Tabletop Whale
+  category: Science
+  description: Tabletop Whale is an original science illustration blog.
+- url: https://openclipart.org/
+  name: Openclipart
+  category: Stock Images
+  description: Who needs stock photos when you can have cliparts?
+- url: https://pnghost.com/
+  name: PNGHOST
+  category: Stock Images
+  description: "The #1 Place For Free Transparent PNG Images. Contains over 22 million free to download transparent PNG images."
+- url: https://www.cueaudio.com/
+  name: CUE - Data over Audio Leader
+  category: Technology
+  description: CUE Audio transmits data via ultrasonic audio signals — without the need for Wi-Fi or network connectivity.
+- url: https://increment.com/
+  name: Increment
+  category: Technology
+  description: Increment is a print and digital magazine about how teams build and operate software systems at scale.
+- url: https://netspeak.org/
+  name: Netspeak
+  category: Tools
+  description: Netspeak is a search engine designed to help you to express yourself in a foreign language by providing you with insight on how common native speakers use certain phrases.
+- url: https://www.freeformatter.com/
+  name: Free Online Tools For Developers
+  category: Tools
+  description: These tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more.
+- url: https://www.gitignore.io/
+  name: gitignore.io
+  category: Tools
+  description: Create useful .gitignore files for your project.
+- url: http://vimsheet.com/
+  name: A Great Vim Cheat Sheet
+  category: Tools
+  description: A list of essential Vim commands that I use every day.
+- url: https://userstyles.org/
+  name: Stylish
+  category: Tools
+  description: Stylish offers customization and personalization for the appearance of virtually any webpage in the world through styles created by the Stylish community. Think customizing your myspace or friendster homepage days.
+- url: https://www.omnicalculator.com/
+  name: Omni Calculator
+  category: Tools
+  description: Calculators for all your everyday problems.
+- url: https://www.filerun.com/
+  name: FileRun
+  category: Tools
+  description: Self-Hosted File Sync and Sharing. Similar UI to Google Drive.
+- url: https://docs.slatejs.org/
+  name: Slate
+  category: Tools
+  description: Slate is a completely customizable framework for building rich text editors.
+- url: https://mailcatcher.me/
+  name: MailCatcher
+  category: Tools
+  description: MailCatcher runs a super simple SMTP server which catches any message sent to it to display in a web interface. Useful for localhost email testing.
+- url: https://crontab.guru/
+  name: crontab guru
+  category: Tools
+  description: The quick and simple editor for cron schedule expressions by Cronitor
+- url: https://www.gridsagegames.com/rexpaint/
+  name: REXPaint
+  category: Tools
+  description: REXPaint is a powerful and user-friendly ASCII art editor.
+- url: https://godbolt.org/
+  name: Compiler Explorer
+  category: Tools
+  description: Ever wanted to know how a compiler compiles your code under the hood? Compiler Explorer is an interactive tool that lets you type code in one window and see the results of its compilation in another window.
+- url: https://turtletoy.net/
+  name: Turtletoy
+  category: Tools
+  description: Turtletoy allows you to create generative art using a minimalistic javascript Turtle graphics API.
+- url: https://fromsmash.com/
+  name: Smash
+  category: Tools
+  description: File Sharing website.
+- url: https://send.firefox.com/
+  name: Firefox Send
+  category: Tools
+  description: Another File Sharing website, by Firefox.
+- url: https://git-rebase.io/
+  name: git rebase in depth
+  category: Tools
+  description: Learn to change history with git rebase! If you ever need to visit this guide, good luck to you!
+- url: https://www.blocklayer.com/
+  name: blocklayer
+  category: Tools
+  description: Calculators for Contractors, Builders, Remodelers, Carpenters, Woodworkers & Scale Modelers.
+- url: https://www.caniemail.com/
+  name: Can I email…
+  category: Tools
+  description: Check if you can use a particular HTML tag or CSS style in your email for different email & webmail clients.
+- url: https://projectnaptha.com/
+  name: Project Naptha
+  category: Tools
+  description: highlight, copy, and translate text from any image.
+- url: https://retool.com/
+  name: Retool
+  category: Tools
+  description: Retool gives you building blocks, which you can assemble into any custom internal tool.
+- url: https://www.sixdegreesofwikipedia.com/
+  name: Six Degrees of Wikipedia
+  category: Toys
+  description: Six Degrees of Wikipedia traverses hyperlinks on Wikipedia to find the least number of clicks it takes to navigate between any of the nearly six million pages on the world's largest free online encyclopedia.
+- url: https://sandspiel.club/
+  name: Sandspiel
+  category: Toys
+  description: Lets procrastinate 5 hours into the sand game!
+- url: https://www.bricklink.com/v2/build/studio.page
+  name: STUDIO 2.0
+  category: Toys
+  description: Build your next Lego model virtually!
+- url: https://deck.of.cards/
+  name: Deck of Cards
+  category: Toys
+  description: Here's the place to go to when you can't find a deck of cards around you.
+- url: https://www.dwitter.net/
+  name: Dwitter.net
+  category: Toys
+  description: Dwitter.net is a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas.
+- url: https://www.seat61.com/
+  name: The Man in Seat Sixty-One
+  category: Travel
+  description: This guy is on track to travel every train systems around the world. Useful guide if you plan to travel by train in a foreign country.
+- url: https://www.pond5.com/free
+  name: The Public Domain Project
+  category: Videos
+  description: Download thousands of historic media files for your creative projects. Completely free & made available by Pond5.
+- url: http://www.danalee.ca/ttt/
+  name: "Television Technical Theory: Unplugged"
+  category: Technology
+  description: Everything you ever wanted to know about Television, TV Station, Broadcasting, Transmission, Audio, etc.
+- url: https://sqlwiki.netspi.com/
+  name: NetSPI SQL Injection Wiki
+  category: Security
+  description: This wiki's mission is to be a one stop resource for fully identifying, exploiting, and escalating SQL injection vulnerabilities across various Database Management Systems (DBMS).
+- url: https://en.bem.info/
+  name: BEM (Block, Element, Modifier)
+  category: Web Development
+  description: BEM (Block, Element, Modifier) is a component-based approach to web development.
+- url: https://serverless.css-tricks.com/
+  name: THE POWER OF SERVERLESS FOR FRONT-END DEVELOPERS
+  category: Web Development
+  description: Understanding the benefits of going serverless. A beginner guide aiming towards front-end developers.
+- url: https://devhints.io/
+  name: Rico's cheatsheets
+  category: Web Development
+  description: This is a modest collection of cheatsheets I've written.
+- url: http://grid.malven.co/
+  name: GRID
+  category: Web Development
+  description: A simple visual cheatsheet for CSS Grid Layout
+- url: https://undraw.co/
+  name: unDraw
+  category: Web Development
+  description: A constantly updated design project with beautiful SVG images that you can use completely free and without attribution.
+- url: https://tympanus.net/codrops/
+  name: Codrops
+  category: Web Development
+  description: Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
+- url: https://cssreference.io/
+  name: CSS Reference
+  category: Web Development
+  description: A free visual guide to CSS.
+- url: https://httpstatuses.com/
+  name: HTTP Status Codes
+  category: Web Development
+  description: httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+- url: https://larsjung.de/pagemap/
+  name: pagemap
+  category: Web Development
+  description: Mini map for web pages.
+- url: https://goaccess.io/
+  name: GoAccess
+  category: Web Development
+  description: GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
